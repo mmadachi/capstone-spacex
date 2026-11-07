@@ -30,14 +30,13 @@ python dashboard/spacex_dash_app.py
 ```
 
 ## Resultados principais
-Preencha com os números da sua execução:
 
 | Item | Resultado |
 |---|---|
-| Taxa de sucesso do pouso no dataset | _preencher_ |
-| Local com maior taxa de sucesso | _preencher_ |
-| Acurácia dos modelos no teste | _preencher_ |
-| Melhor modelo | _preencher_ |
+| Taxa de sucesso do pouso no dataset | **66.67%** (60 pousos com sucesso em 90 lançamentos) |
+| Local com maior taxa de sucesso | **KSC LC-39A** (76.92% de taxa de sucesso) |
+| Acurácia dos modelos no teste | **83.33%** |
+| Melhor modelo | **Regressão Logística / SVM / Árvore de Decisão** (83.33% no conjunto de teste) |
 
 ## Apresentação
 O relatório completo está em `apresentacao/Relatório do Projeto Final de Ciência de Dados.pdf`.
